@@ -1,4 +1,4 @@
 Server ID: 97ece787
-Renew status: Failed
-Last renewal time: 2024-12-29 01:05:33
-Error: Time not extended
+Renew status: Success
+Last renewal time: 2025-01-01 01:05:10
+New expiration time: 2025-01-13 03:27:12
